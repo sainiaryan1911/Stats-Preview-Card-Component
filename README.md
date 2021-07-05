@@ -6,7 +6,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -23,12 +22,6 @@ This is a basic HTML and CSS project. It is a responsive layout. I have designed
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
-
-### Screenshot
-
-![Desktop](./ScreenShot/Desktop.png)
-![Mobile-1](./ScreenShot/Mobile-1.png)
-![Mobile-2](./ScreenShot/Mobile-2.png)
 
 ### Links
 
