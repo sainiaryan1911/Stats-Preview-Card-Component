@@ -26,14 +26,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./ScreenShot/Desktop.png)
-![](./ScreenShot/Mobile-1.png)
-![](./ScreenShot/Mobile-2.png)
+![Desktop](./ScreenShot/Desktop.png)
+![Mobile-1](./ScreenShot/Mobile-1.png)
+![Mobile-2](./ScreenShot/Mobile-2.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/sainiaryan1911/Stats-Preview-Card-Component)
-- Live Site URL: [Add live site URL here](https://sainiaryan1911.github.io/Stats-Preview-Card-Component)
+- Solution URL: [Solution URL](https://github.com/sainiaryan1911/Stats-Preview-Card-Component)
+- Live Site URL: [Live Site URL](https://sainiaryan1911.github.io/Stats-Preview-Card-Component)
 
 ## My process
 
