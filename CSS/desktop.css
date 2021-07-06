@@ -26,10 +26,11 @@ img {
 }
 #stats {
   width: 100%;
-  display: flex;
+}
+ul {
+  flex-direction: row;
   justify-content: space-between;
 }
-h2 {
-  display: flex;
-  flex-direction: column;
+li {
+  margin: 0;
 }
